@@ -1,6 +1,6 @@
 # SeleniumTest
 
-Selenium Tests I write with Java.
+Selenium Tests I write with Java on https://www.saucedemo.com/.
 
 Test Cases:
 1. Login to user, adding items to cart and checking if the size of the cart matching to the items was added.
